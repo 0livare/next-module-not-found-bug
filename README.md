@@ -1,3 +1,5 @@
+This repo was created to demonstrate [this issue](https://github.com/zeit/next.js/issues/11377).
+
 In Next.js 9.3.2, when a SASS error happens, the Next cli properly tells me about the SASS error, but then it prints this error to the console every few seconds until I fix the SASS error.
 
 > Note: The SASS error in this repository is intentional to demonstrate this Next.js issue
