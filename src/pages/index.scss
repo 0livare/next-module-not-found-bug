@@ -1,0 +1,7 @@
+@use './functions';
+@use './mixins';
+
+.foo {
+  background: red;
+  width: functions.foo(); // This function intentionally does not exist
+}

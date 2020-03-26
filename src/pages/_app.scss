@@ -1,4 +1,1 @@
-.foo {
-  background: red;
-  width: foo(); // This function intentionally does not exist
-}
+@use './index';
